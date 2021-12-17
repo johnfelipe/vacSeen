@@ -82,4 +82,4 @@ Note: If you deploy using a personal account, CELO tokens are required in your a
 
 ![App Screenshots](https://github.com/skhiearth/VacSeen/blob/main/UI%20Elements/Screenshots/Tech%20Stack.png?raw=true)
 
-Made with ❤️ by The Misfits - [Simran](https://simmsss.github.io/) and [Utkarsh](https://skhiearth.github.io/)
+Made with ❤️ by The Misfits
